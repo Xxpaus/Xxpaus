@@ -4,7 +4,6 @@
 
 ## Sobre Mí
 
-- 🔭 Actualmente estoy trabajando en [proyecto actual o lugar de trabajo].
 - 🌱 Estoy aprendiendo HTML, CSS, JavaScript.
 - 📫 Puedes encontrarme en: [LinkedIn](https://www.linkedin.com/in/paola-casta%C3%B1o-gomez-640b672b5/) | [Instagram](https://www.instagram.com/paolacastanogomez?igsh=MWVtM2d0ZDFuZzdkdw==)
 
